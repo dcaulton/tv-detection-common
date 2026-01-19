@@ -1,1 +1,3 @@
 sqlalchemy>=1.4
+alembic
+psycopg2
